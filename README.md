@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Candace Andrews 👋
+
+👩‍💻 Junior Software Engineer | 🎨 Passionate Artist
+
+Welcome to my GitHub profile! I'm a junior software engineer with a strong passion for art. I believe that the blend of technology and creativity can result in some truly amazing and innovative projects.
 
 <!--
 **CandaceAndrews/CandaceAndrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
