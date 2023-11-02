@@ -1,4 +1,5 @@
-<h3 style="font-size: 36px; color: white;">Junior Software Engineer | Passionate Artist</h3>
+Junior Software Engineer | Passionate Artist
+---------------------------------------------
 
 Welcome to my GitHub profile! I'm a junior software engineer with a strong passion for both code and art. I believe that the blend of technology and creativity can result in some truly amazing and innovative projects.
 
