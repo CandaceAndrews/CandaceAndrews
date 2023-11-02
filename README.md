@@ -1,11 +1,9 @@
 # Hi 👋 My name is Candace Andrews
 
-### 👩‍💻 Junior Software Engineer | 🎨 Passionate Artist
+### Junior Software Engineer | Passionate Artist
 
 Welcome to my GitHub profile! I'm a junior software engineer with a strong passion for both code and art. I believe that the blend of technology and creativity can result in some truly amazing and innovative projects.
 
-* 🌍  I'm based in North Carolina
-* 🖥️  See my portfolio at [candaceandrews.github.io](https://candaceandrews.github.io/)
 * ✉️  You can contact me at [linkedin.com/in/candaceandrews](mailto:linkedin.com/in/candaceandrews)
 * 🚀  I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
 * 🧠  I'm learning Vue.js
