@@ -1,40 +1,26 @@
-# Hello, I'm Candace Andrews 👋
-__
-## 👩‍💻 Junior Software Engineer | 🎨 Passionate Artist
-__
+# Hi 👋 My name is Candace Andrews
+
+### 👩‍💻 Junior Software Engineer | 🎨 Passionate Artist
 
 Welcome to my GitHub profile! I'm a junior software engineer with a strong passion for both code and art. I believe that the blend of technology and creativity can result in some truly amazing and innovative projects.
 
-## 🖥️ About Me
-🌱 I'm a junior software engineer, constantly learning and exploring new technologies.
-🖌️ As an artist, I express my creativity through various mediums, including painting, digital art, and photography.
-👩‍💻 I'm passionate about coding and enjoy building software solutions to solve real-world problems.
-🎨 My artistic pursuits complement my technical skills, inspiring unique and visually appealing projects.
-💼 What I Do
-🛠️ I work on a wide range of software development projects, from web applications to mobile apps.
-🌐 I'm always exploring the latest tools and technologies in the tech industry.
-🎨 My artistic endeavors often influence the design and user experience of my software projects.
-🌟 Projects
-You can explore a variety of my projects here on GitHub, which include both software and art-related work. I love collaborating with others and sharing my passion for creativity and technology.
+* 🌍  I'm based in North Carolina
+* 🖥️  See my portfolio at [candaceandrews.github.io](https://candaceandrews.github.io/)
+* ✉️  You can contact me at [linkedin.com/in/candaceandrews](mailto:linkedin.com/in/candaceandrews)
+* 🚀  I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
+* 🧠  I'm learning Vue.js
 
-## 📫 Contact
-I'm open to collaborations, discussions, and sharing experiences with fellow developers and artists. Feel free to reach out to me on LinkedIn or Twitter if you'd like to connect.
+### Skills
 
-## 🎨 Let's Create Together
-I believe that the fusion of art and technology has the potential to create beautiful and innovative solutions. If you share this passion, I'd love to connect and explore new opportunities with you. Let's code and create art together!
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
 
-Thank you for visiting my GitHub profile. 🚀✨
-
-<!--
-**CandaceAndrews/CandaceAndrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
