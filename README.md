@@ -1,5 +1,4 @@
-Hi 👋 My name is Candace Andrews
-=================================
+# Hi 👋 My name is Candace Andrews
 
 ### Junior Software Engineer | Passionate Artist
 --------------------------------------------------
@@ -10,7 +9,7 @@ Welcome to my GitHub profile! I'm a junior software engineer with a strong passi
 * 🚀  I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
 * 🧠  I'm learning Vue.js
 
-### Skills
+ Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
