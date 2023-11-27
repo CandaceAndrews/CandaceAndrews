@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a junior software engineer with a strong passi
 
 * ✉️ You can contact me at [linkedin.com/in/candaceandrews](mailto:linkedin.com/in/candaceandrews)
 * 🚀 I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
-* 🧠 I'm learning Vue.js
+* 🧠 I'm currently learning Vue.js
 
 ### Skills
 
