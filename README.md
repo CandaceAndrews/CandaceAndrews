@@ -1,7 +1,7 @@
 Junior Software Engineer | Digital Artist
 ---------------------------------------------
 
-Welcome to my GitHub profile! I'm a junior software engineer with a strong passion for programming, video games and art.
+Welcome to my GitHub profile! I'm a software engineer with a strong passion for programming, video games and art.
 
 * ✉️ --> You can contact me at [linkedin.com/in/candaceandrews](mailto:linkedin.com/in/candaceandrews)
 * 🚀 --> I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
