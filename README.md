@@ -3,7 +3,7 @@ Junior Software Engineer | Digital Artist
 
 Welcome to my GitHub profile! I'm a software engineer with a strong passion for programming, video games and art.
 
-* ✉️ --> You can contact me at my [email](candaceamberandrews@gmail.com)
+* ✉️ --> You can contact me at my [email](mailto:candaceamberandrews@gmail.com)
 * 🚀 --> I'm currently working on [My Portfolio Website](https://candaceandrews.github.io/Portfolio-Website/)
 * 🧠 --> I'm learning Vue.js
 
