@@ -3,8 +3,8 @@ Junior Software Engineer | Digital Artist
 
 Welcome to my GitHub profile! I'm a software engineer with a strong passion for programming, video games and art.
 
-* ✉️ --> You can contact me at [linkedin.com/in/candaceandrews](mailto:linkedin.com/in/candaceandrews)
-* 🚀 --> I'm currently working on [Quetzalcomics](https://github.com/CandaceAndrews/QuetzalComics)
+* ✉️ --> You can contact me at [Email](mailto:candaceamberandrews@gmail.com)
+* 🚀 --> I'm currently working on [My Portfolio Website](https://candaceandrews.github.io/Portfolio-Website/)
 * 🧠 --> I'm learning Vue.js
 
 ### Skills
