@@ -4,7 +4,7 @@ Junior Software Engineer | Digital Artist
 Welcome to my GitHub profile! I like to code, play video games and draw.
 
 * ✉️ --> You can contact me at my [email](mailto:candaceamberandrews@gmail.com)
-* 🚀 --> I'm currently working [a video game trivia app](https://candaceandrews.github.io/PlayStation-Trivia-App/#/)
+* 🚀 --> I'm currently working [a virtual pet app](https://github.com/CandaceAndrews/virtual-pet)
 * 🧠 --> Right now I'm learning Vue.js
 * [Portfolio Website](https://candaceandrews.github.io/Portfolio-Website/#/)
 
